@@ -1,7 +1,7 @@
 What is ThumbsDBReader
 =========
 
-It is nothing more then a simple library that reads an ics file and converts it to html
+It is nothing more then a simple library that reads an thumbs.db file, extract the images from it and puts them in an html table so that you can view them.
 
 Read and convert
 ============
